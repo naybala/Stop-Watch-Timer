@@ -1,0 +1,19 @@
+body {
+  background-color: #343a40;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stopWatch {
+  color: #078fff;
+  font-size: 200px;
+  font-weight: bold;
+}
+
+button {
+  margin: 10px;
+}
