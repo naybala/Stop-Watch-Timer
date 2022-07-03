@@ -31,7 +31,7 @@ button {
   }
 }
 
-@media (max-width:399px) and (min-width:300px){
+@media (max-width:559px) and (min-width:290px){
   body{
     margin-top: 100px;
   }
@@ -39,7 +39,7 @@ button {
     width: 300px;
   }
   .stopWatch {
-    font-size: 50px;
+    font-size: 3rem;
 
   }
   button {
